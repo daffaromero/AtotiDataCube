@@ -1,8 +1,8 @@
 <h2>OLAP Cube</h2>
 
 <h3>Dataset: Open University Learning Analytics dataset (OULAD)</h3>
-Kaggle: https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad?resource=download<br>
-Knowledge Media Institute | The Open University: https://analyse.kmi.open.ac.uk/open_dataset
+<a href="https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad?resource=download">Kaggle </a><br>
+<a href="https://analyse.kmi.open.ac.uk/open_dataset">Knowledge Media Institute | The Open University</a><br>
 
 Made with Python. Libraries used:
 <ul>
