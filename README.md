@@ -11,5 +11,5 @@ Made with Python (Jupyter Notebook). Libraries used:
 </ul>
 
 
-6 November 2022
+6 November 2022<br>
 Daffa Romero
