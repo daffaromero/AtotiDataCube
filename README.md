@@ -9,3 +9,7 @@ Made with Python (Jupyter Notebook). Libraries used:
   <li>Atoti</li>
   <li>Pandas</li>
 </ul>
+
+
+6 November 2022
+Daffa Romero
