@@ -4,7 +4,7 @@
 <a href="https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad?resource=download">Kaggle </a><br>
 <a href="https://analyse.kmi.open.ac.uk/open_dataset">Knowledge Media Institute | The Open University</a><br><br>
 
-Made with Python. Libraries used:
+Made with Python (Jupyter Notebook). Libraries used:
 <ul>
   <li>Atoti</li>
   <li>Pandas</li>
