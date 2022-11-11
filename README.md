@@ -11,5 +11,6 @@ Made with Python (Jupyter Notebook). Libraries used:
 </ul>
 
 
-6 November 2022<br>
+Initial commit: 6 November 2022<br>
+Last commit: 11 November 2022<br>
 Daffa Romero
